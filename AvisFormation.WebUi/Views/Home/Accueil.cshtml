@@ -1,0 +1,152 @@
+﻿@model AvisFormation.WebUi.Models.AccueilViewModel
+@{
+    ViewBag.Title = "Accueil";
+}
+
+<div class="jumbotron text-center">
+    <h1>Avis Formation</h1>
+    <p>Choisissez la meilleure formation !</p>
+</div>
+
+<div class="container">
+
+    @foreach(var dto in Model.ListFormations)
+    {
+    <article class="info-block col-md-3 col-sm-6">
+        @*<h4>@dto.Formation.Nom</h4>*@
+        <h4>
+            @Html.ActionLink(dto.Formation.Nom, "DetailsFormation", "Formation", new { nomSeo=dto.Formation.NomSeo}, new { @class = "lien-formation" })
+        </h4>
+        <p>
+            @if (dto.Note == 0)
+            {
+                <span>Aucun Avis</span>
+            }
+            else
+            {
+                <span class="glyphicon glyphicon-star yellow"></span>
+                if (dto.Note > 1)
+                {
+                    <span class="glyphicon glyphicon-star yellow"></span>
+                }
+                if (dto.Note > 2)
+                {
+                    <span class="glyphicon glyphicon-star yellow"></span>
+                }
+                if (dto.Note > 3)
+                {
+                    <span class="glyphicon glyphicon-star yellow"></span>
+                }
+                if (dto.Note > 4)
+                {
+                    <span class="glyphicon glyphicon-star yellow"></span>
+                }
+                    <span>@dto.Note / 5</span>
+          }
+
+
+        </p>
+
+        <p>@dto.Formation.Description</p>
+    </article>
+    
+    }
+
+</div>
+
+@*<a href="/formation/asp-net-mvc" rel="nofollow">lien basique a</a>
+
+@Html.ActionLink("Lien action link", "DetailsFormation", "Formation", new { nomSeo = "asp-net-mvc" }, new { rel = "nofollow" })
+
+<a href="@Url.Action("DetailsFormation", "Formation", new { nomSeo = "asp-net-mvc" })" rel="nofollow">lien complexe</a>*@
+
+<div class="container text-center">
+
+    @foreach(var dto in Model.ListFormations)
+    {
+    <article>
+        @Html.ActionLink(dto.Formation.Nom, "DetailsFormation", "Formation", new {nomSeo= dto.Formation.NomSeo}, null )
+        <div>@dto.Note</div>
+        <div>@dto.Formation.Description</div>
+    </article>
+
+    }
+
+</div>
+
+<div class="container bg-white text-center padding30">
+    <h2>Pourquoi utiliser Avis Formation ?</h2>
+    <h3>Bénéfices formateur</h3>
+
+    <div class="row">
+        <div class="col-md-6">
+            <span class="glyphicon glyphicon-shopping-cart logo-small"></span>
+            <h4>Conversion</h4>
+            <p>Améliorez votre taux de conversion</p>
+        </div>
+
+        <div class="col-md-6">
+            <span class="glyphicon glyphicon-fullscreen logo-small"></span>
+            <h4>Visibilité</h4>
+            <p>Améliorez votre taux de conversion</p>
+        </div>
+
+        <div class="col-md-6">
+            <span class="glyphicon glyphicon-tree-deciduous logo-small"></span>
+            <h4>Fidélisation</h4>
+            <p>Améliorez votre taux de conversion</p>
+        </div>
+
+        <div class="col-md-6">
+            <span class="glyphicon glyphicon-heart-empty logo-small"></span>
+            <h4>Confiance</h4>
+            <p>Améliorez votre taux de conversion</p>
+        </div>
+
+    </div>
+
+</div>
+
+<div class="container text-center padding30">
+    <div class="row">
+        <div class="col-md-8">
+            <h3>Professionnels de la formation, affichez votre badge sur votre site pour augmenter vos conversions !</h3>
+        </div>
+        <div class="col-md-4">
+            <div class="widget">
+                <div>
+                    Avis Elèves 4.8 / 5
+                    <span class="glyphicon glyphicon-star yellow"></span><span class="glyphicon glyphicon-star yellow"></span><span class="glyphicon glyphicon-star yellow"></span><span class="glyphicon glyphicon-star yellow"></span><span class="glyphicon glyphicon-star yellow"></span>
+                </div>
+                <div class="widget-bottom">
+                    Avis récoltés par AvisFormation.fr
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container bg-white text-center padding30">
+    <div class="row">
+        <div class="col-md-3">
+            <p class="bigpercent">85%</p>
+            <p><b>texte</b></p>
+        </div>
+
+        <div class="col-md-3">
+            <p class="bigpercent">20%</p>
+            <p><b>texte</b></p>
+        </div>
+
+        <div class="col-md-3">
+            <p class="bigpercent">45%</p>
+            <p><b>texte</b></p>
+        </div>
+
+        <div class="col-md-3">
+            <p class="bigpercent">30%</p>
+            <p><b>texte</b></p>
+        </div>
+
+    </div>
+</div>

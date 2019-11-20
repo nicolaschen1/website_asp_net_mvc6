@@ -1,0 +1,63 @@
+﻿@model AvisFormation.WebUi.Models.AccueilViewModel
+@{
+    ViewBag.Title = "ToutesLesFormations";
+}
+
+<div class="container">
+
+    <h2>Toutes les formations</h2>
+
+    @foreach (var dto in Model.ListFormations)
+    {
+        @Html.Partial("TuileFormation", dto)
+
+        @*<article class="info-block col-md-3 col-sm-6">            
+            <h4>
+                @Html.ActionLink(dto.Formation.Nom, "DetailsFormation", "Formation", 
+               new { nomSeo = dto.Formation.NomSeo }, new { @class = "lien-formation" })
+            </h4>
+            <p>
+                @if (dto.Note == 0)
+                {
+                    <span>Aucun Avis</span>
+                }
+                else
+                {
+                    <span class="glyphicon glyphicon-star yellow"></span>
+                    if (dto.Note > 1)
+                    {
+                        <span class="glyphicon glyphicon-star yellow"></span>
+                    }
+                    if (dto.Note > 2)
+                    {
+                        <span class="glyphicon glyphicon-star yellow"></span>
+                    }
+                    if (dto.Note > 3)
+                    {
+                        <span class="glyphicon glyphicon-star yellow"></span>
+                    }
+                    if (dto.Note > 4)
+                    {
+                        <span class="glyphicon glyphicon-star yellow"></span>
+                    }
+                    <span>@dto.Note / 5</span>
+                }
+
+
+            </p>
+
+            <p>@dto.Formation.Description</p>
+        </article>*@
+
+    }
+
+    @*@foreach (var formation in Model)
+        {
+            <div><span>Nom :</span><span>@formation.Nom</span></div>
+            <div><span>Description :</span><span>@formation.Description</span></div>
+            <div>formation.NomSeo</div>
+            <div>
+                @formation.NomSeo
+            </div>
+        }*@
+</div>

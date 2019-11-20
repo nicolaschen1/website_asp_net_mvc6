@@ -1,0 +1,109 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #F5F5F5;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+/*input,
+select,
+textarea {
+    max-width: 280px;
+}*/
+
+.jumbotron 
+{
+    background-color: black;
+    color: orange;
+}
+
+.bg-white 
+{
+    background-color: white;
+}
+
+.logo-small 
+{
+    color: orange;
+    font-size: 50px;
+}
+
+.padding30 
+{
+    padding: 30px;
+}
+
+.widget {
+    background-color: white;
+    border: solid 1px orange; 
+    border-radius: 5px;
+}
+
+.widget div {
+    padding: 15px;
+}
+
+.widget-bottom
+{
+    background-color: orange;
+    color: white;
+}
+
+.yellow {
+    color: #FFBD00;
+}
+
+.bigpercent {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar li a:hover {
+    background-color: #fff !important;
+    color: black !important;
+}
+
+.info-block {
+    background-color: white;
+    padding: 15px;
+    border: 2px solid #F5F5F5;
+    min-height: 225px;
+}
+
+.lien-formation {
+    color: orange;
+}
+
+.bg-grey {
+    background-color: #F5F5F5;
+}
+
+.avis {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.margin20 {
+    margin: 20px;
+}
+
+.big-link {
+    font-size: 1.5em;
+}
