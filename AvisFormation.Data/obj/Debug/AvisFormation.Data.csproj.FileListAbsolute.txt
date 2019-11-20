@@ -1,0 +1,14 @@
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\obj\Debug\AvisFormation.Data.csprojAssemblyReference.cache
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\obj\Debug\AvisFormation.Data.csproj.CoreCompileInputs.cache
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\bin\Debug\AvisFormation.Data.dll.config
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\bin\Debug\AvisFormation.Data.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\bin\Debug\AvisFormation.Data.pdb
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\bin\Debug\EntityFramework.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\bin\Debug\EntityFramework.xml
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\obj\Debug\AvisFormation.Data.csproj.CopyComplete
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\obj\Debug\AvisFormation.Data.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Data\obj\Debug\AvisFormation.Data.pdb
