@@ -1,0 +1,17 @@
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\bin\Release\AvisFormation.Logic.dll.config
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\bin\Release\AvisFormation.Logic.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\bin\Release\AvisFormation.Logic.pdb
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\bin\Release\AvisFormation.Data.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\bin\Release\EntityFramework.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\bin\Release\AvisFormation.Data.pdb
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\bin\Release\AvisFormation.Data.dll.config
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\bin\Release\EntityFramework.xml
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\bin\Release\fr\EntityFramework.resources.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\bin\Release\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\obj\Release\AvisFormation.Logic.csprojAssemblyReference.cache
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\obj\Release\AvisFormation.Logic.csproj.CoreCompileInputs.cache
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\obj\Release\AvisFormation.Logic.csproj.CopyComplete
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\obj\Release\AvisFormation.Logic.dll
+C:\Users\bluefox\Desktop\KERNEL_ONE\DESKTOP\PROGRAMMES\ASP_NET\AvisFormation.WebUi\AvisFormation.Logic\obj\Release\AvisFormation.Logic.pdb
